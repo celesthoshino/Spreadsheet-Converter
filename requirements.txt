@@ -1,0 +1,11 @@
+# Reads and writes tables in all the formats.
+pandas>=2.2
+
+# Reads Excel (.xlsx, .xlsm, .xls) and OpenDocument (.ods) files.
+python-calamine>=0.2
+
+# Writes Excel (.xlsx) files.
+openpyxl>=3.1
+
+# Writes OpenDocument (.ods) files, for LibreOffice.
+odfpy>=1.4
